@@ -1,0 +1,10 @@
+D123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 10trieu
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+P123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2000000
+D123, Le Huu toan, 11/02/2002, 8.6, 5000000, Long My, 2trieu

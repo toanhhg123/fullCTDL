@@ -1,0 +1,36 @@
+﻿  Kiphapbalan.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(26,66): error C2228: left of '.c_str' must have class/struct/union
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(26,66): message : type is 'const int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(43,57): error C2512: 'std::logic_error::logic_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(60,61): error C2512: 'std::logic_error::logic_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(77,57): error C2512: 'std::logic_error::logic_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(94,57): error C2512: 'std::logic_error::logic_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(128,59): error C2512: 'std::runtime_error::runtime_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(145,60): error C2512: 'std::runtime_error::runtime_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\stdexcept(162,56): error C2512: 'std::runtime_error::runtime_error': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(463,17): error C2664: 'std::_System_error::_System_error(std::error_code,const int &)': cannot convert argument 2 from 'const char [1]' to 'const int &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(463,17): message : Reason: cannot convert from 'const char [1]' to 'const int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(463,59): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(452,5): message : see declaration of 'std::_System_error::_System_error'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(467,17): error C2664: 'std::_System_error::_System_error(std::error_code,const int &)': cannot convert argument 2 from 'const char *' to 'const int &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(467,17): message : Reason: cannot convert from 'const char *' to 'const int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(467,81): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(452,5): message : see declaration of 'std::_System_error::_System_error'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(469,17): error C2664: 'std::_System_error::_System_error(std::error_code,const int &)': cannot convert argument 2 from 'const char [1]' to 'const int &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(469,17): message : Reason: cannot convert from 'const char [1]' to 'const int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(469,102): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(452,5): message : see declaration of 'std::_System_error::_System_error'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(475,18): error C2664: 'std::_System_error::_System_error(std::error_code,const int &)': cannot convert argument 2 from 'const char *' to 'const int &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(474,17): message : Reason: cannot convert from 'const char *' to 'const int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(475,49): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(452,5): message : see declaration of 'std::_System_error::_System_error'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(520,1): error C2440: 'return': cannot convert from 'const char *' to 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(520,29): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(536,1): error C2440: 'return': cannot convert from 'std::string' to 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(536,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(538,1): error C2440: 'return': cannot convert from 'const char *' to 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(538,33): message : There is no context in which this conversion is possible
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(556,1): error C2440: 'return': cannot convert from 'std::string' to 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(556,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(558,1): error C2440: 'return': cannot convert from 'std::string' to 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\system_error(558,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
